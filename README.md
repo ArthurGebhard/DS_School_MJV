@@ -1,6 +1,6 @@
 # Projeto Final DS School MJV
 
-Projeto final desenvolvido por: \
+##Projeto final desenvolvido por: \
 Andréia Castanharo \
 Arthur Gebhard: https://github.com/ArthurGebhard / https://www.linkedin.com/in/arthur-gebhard-940492b9/ \
 Luan de Brito: https://github.com/luandebrito / https://www.linkedin.com/in/luan-silva-de-brito-a997ab140/
